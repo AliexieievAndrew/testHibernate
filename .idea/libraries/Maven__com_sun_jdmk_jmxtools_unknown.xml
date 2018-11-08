@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sun.jdmk:jmxtools:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jdmk/jmxtools/unknown/jmxtools-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jdmk/jmxtools/unknown/jmxtools-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jdmk/jmxtools/unknown/jmxtools-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

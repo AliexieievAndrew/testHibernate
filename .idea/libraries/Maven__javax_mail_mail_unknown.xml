@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: javax.mail:mail:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/mail/mail/unknown/mail-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/mail/mail/unknown/mail-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/javax/mail/mail/unknown/mail-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
